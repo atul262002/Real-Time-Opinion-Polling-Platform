@@ -7,6 +7,17 @@ A modern, real-time polling application built with **FastAPI** (Python) and **Ne
 ![Next.js](https://img.shields.io/badge/next.js-14+-black.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688.svg)
 
+
+---
+
+## 🖼️ Preview
+
+![QuickPoll Screenshot](/preview/2.png)
+![QuickPoll Screenshot](/preview/1.png)
+
+
+---
+
 ## ✨ Features
 
 ### Core Functionality
